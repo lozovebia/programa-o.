@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+    #imagem{
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+    }
+    h1{ 
+        font-size: 40px; /* tamanho do texto*/
+        color: aquamarine;
+        text-align: center;
+    }
+    p{
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #d82c20;
+    }
+}
+h2{
+    width: 50%;
+    
+        font-size: 40px; 
+    
+}
+#imagem2{
+    width: 50%;
+}
